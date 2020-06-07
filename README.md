@@ -1,3 +1,5 @@
 # CC3220SF Launchpad support for Mbed OS 6
 
+WORK IN PROGRESS .... NO WORKING RELEASE RIGHT NOW!
+
 
